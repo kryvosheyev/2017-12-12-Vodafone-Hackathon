@@ -1,0 +1,15 @@
+base::::file:///home/olexiy/Documents/Data_analysis/Projects/Vodafone
+output::::file:///home/olexiy/.rkward/rk_out.html
+help::::rkward://rhelpbase/library/base/html/Encoding.html
+help::::rkward://rhelpbase/library/base/html/as.Date.html
+help::::rkward://rhelpbase/library/base/html/strptime.html
+help::::rkward://rhelpbase/library/graphics/html/par.html
+workspace::sidebar,0::
+commandlog::sidebar,3::
+filebrowser::sidebar,0::
+pendingjobs::sidebar,4::
+console::sidebar,3::
+helpsearch::sidebar,3::
+debugframes::sidebar,1::
+debugconsole::sidebar,4::
+rkdebugmessages::sidebar,4::
